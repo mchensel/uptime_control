@@ -1,0 +1,1 @@
+start /min pythonw C:\Anwendungen\Admin_Raffi\main.py
